@@ -17,7 +17,7 @@ https://user-images.githubusercontent.com/105239532/193367800-3d3d05a9-0001-41f2
 
 ## Imagens
 
-![/Projeto concluido.jpg"](https://github.com/JefersonDomingos/Consulta-Climatica/blob/5ba0771a4ba83b50a1062c830d49cb78da0813f2/assets/IMG/Projeto%20concluido.jpg)
+![/Projeto concluido.jpg"](https://github.com/JefersonDomingos/Previsao-do-tempo/blob/067a4d35a09b1a69f08d68850ffa363c9568f468/assets/IMG/Projeto%20concluido.jpg)
 
 
 ## Para rodar o projeto
