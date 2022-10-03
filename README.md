@@ -26,7 +26,7 @@ basta apenas abrir um navegador de sua preferência e acessar o link abaixo:
 
 ## Link
 
-https://consulta-climatica.vercel.app/
+https://previsao-do-tempo-tau.vercel.app/
 
 ## Autor
 Jeferson Domingos Martins
