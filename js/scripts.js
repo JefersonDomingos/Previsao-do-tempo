@@ -1,4 +1,4 @@
-const keyApi = process.env.APPAPI_KEY;
+const keyApi = APPAPI_KEY;
 
 //Seleção de elementos
 
