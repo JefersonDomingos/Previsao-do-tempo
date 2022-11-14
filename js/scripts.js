@@ -1,4 +1,4 @@
-const keyApi = "5ea5ab55099a70dfd482c9a04800e906";
+const keyApi = APPAPI_KEY;
 
 //Seleção de elementos
 
