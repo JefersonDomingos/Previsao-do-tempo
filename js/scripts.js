@@ -23,7 +23,7 @@ const elementInstruction = document.querySelector("#instruction");
 //Funções
 const getWeatherData = async (city) => {
     try{
-            const apiWeatherUrl = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${keyApi}&lang=pt_br`);
+            const apiWeatherUrl = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&units=metric&appid=${APPAPI_KEY}&lang=pt_br`);
             const data = await apiWeatherUrl.json();
             
             if(data.erro){
