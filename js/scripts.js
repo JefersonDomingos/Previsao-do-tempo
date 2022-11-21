@@ -1,5 +1,5 @@
 const keyApi = process.env.NEXT_PUBLIC_APPAPI_KEY;
-
+console.log(keyApi);
 //Seleção de elementos
 
 const apiCountryUrl = "https://countryflagsapi.com/png/";
